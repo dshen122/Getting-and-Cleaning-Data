@@ -7,7 +7,7 @@
 
  CodeBook.md,  code book markdown, it contains detailed explanation of the run_analysis function
 
-# following a brief step on how to run this function:
+# Here are brief steps on how to run this function:
 
  download the Human Activity Recognition Using Smartphones Data Set 
 
